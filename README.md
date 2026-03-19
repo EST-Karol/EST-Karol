@@ -1,11 +1,12 @@
-### Hello there, I'm Karol 👋
+## Hi, I’m Karol 👋
 
-#### I'm a product raconteur with a soft spot for strategy, environment, and media.
+Product raconteur with a soft spot for strategy, the environment, and media.
 
-I wear one t-shirt, many hats, and I love complex problems.
+I wear one T‑shirt, many hats, and enjoy untangling complex problems - especially where product, content, and systems meet.
 
-You can find me on [LinkedIn](https://www.linkedin.com/in/karolchojnowski/) or walking a dog in a park. Oh, and I read a lot 😄
+- Product & content‑led systems
+- Strategy, standards, and clarity at scale
+- Environment, energy, and public‑value tech
 
-
-Thx,<br>
-K
+You’ll find me on [LinkedIn](https://www.linkedin.com/in/karolchojnowski/)  
+…or walking a dog in a park. I also read a lot 📚
